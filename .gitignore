@@ -1,0 +1,9 @@
+/.idea
+/git.store
+build/
+*.iml
+.gradle/
+local.properties
+.DS_Store
+
+
